@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "kernel.h": "c",
+        "typeinfo": "c",
+        "types.h": "c",
+        "devices.h": "c",
+        "user.h": "c",
+        "unistd.h": "c",
+        "assert.h": "c",
+        "stdio.h": "c",
+        "cstdio": "c",
+        "stdlib.h": "c",
+        "*.inc": "c"
+    }
+}

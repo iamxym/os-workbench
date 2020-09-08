@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stat.h": "c",
+        "fcntl.h": "c",
+        "semaphore.h": "c",
+        "pthread.h": "c",
+        "file.h": "c"
+    }
+}
